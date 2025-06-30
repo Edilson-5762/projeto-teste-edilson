@@ -1,0 +1,2 @@
+
+print('iniciando funções novas')
